@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 <div align="center">
-  <img src="https://i.imgur.com/Jf5y4Qp.png" alt="Inspirium Screenshot" width="600">
+  
 </div>
 
 ## 🌟 Features
